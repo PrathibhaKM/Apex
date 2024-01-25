@@ -12,7 +12,7 @@ public class DemoTest {
 	@Test(groups="regression")
 	public void Demo2()
 	{
-		System.out.println("--Testscript--6");
+		System.out.println("--Testscript- -6");
 	}
 	
 
