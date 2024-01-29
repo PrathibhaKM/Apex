@@ -2,7 +2,7 @@
 <testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-24T12:02:29 IST" name="Suite" finished-at="2024-01-24T12:02:29 IST" duration-ms="127">
+  <suite started-at="2024-01-29T16:53:06 IST" name="Suite" finished-at="2024-01-29T16:53:06 IST" duration-ms="125">
     <groups>
       <group name="regression">
         <method signature="DemoTest.Demo2()[pri:0, instance:maven.DemoTest@368f2016]" name="Demo2" class="maven.DemoTest"/>
@@ -14,25 +14,25 @@
         <method signature="SampleTest.sample1Test()[pri:0, instance:maven.SampleTest@4135c3b]" name="sample1Test" class="maven.SampleTest"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-01-24T12:02:29 IST" name="Test" finished-at="2024-01-24T12:02:29 IST" duration-ms="127">
+    <test started-at="2024-01-29T16:53:06 IST" name="Test" finished-at="2024-01-29T16:53:06 IST" duration-ms="125">
       <class name="maven.ExampleTest">
-        <test-method signature="Example1Test()[pri:0, instance:maven.ExampleTest@4d5d943d]" started-at="2024-01-24T12:02:29 IST" name="Example1Test" finished-at="2024-01-24T12:02:29 IST" duration-ms="5" status="PASS">
+        <test-method signature="Example1Test()[pri:0, instance:maven.ExampleTest@4d5d943d]" started-at="2024-01-29T16:53:06 IST" name="Example1Test" finished-at="2024-01-29T16:53:06 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Example1Test -->
       </class> <!-- maven.ExampleTest -->
       <class name="maven.DemoTest">
-        <test-method signature="Demo1()[pri:0, instance:maven.DemoTest@368f2016]" started-at="2024-01-24T12:02:29 IST" name="Demo1" finished-at="2024-01-24T12:02:29 IST" duration-ms="9" status="PASS">
+        <test-method signature="Demo1()[pri:0, instance:maven.DemoTest@368f2016]" started-at="2024-01-29T16:53:06 IST" name="Demo1" finished-at="2024-01-29T16:53:06 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Demo1 -->
-        <test-method signature="Demo2()[pri:0, instance:maven.DemoTest@368f2016]" started-at="2024-01-24T12:02:29 IST" name="Demo2" finished-at="2024-01-24T12:02:29 IST" duration-ms="5" status="PASS">
+        <test-method signature="Demo2()[pri:0, instance:maven.DemoTest@368f2016]" started-at="2024-01-29T16:53:06 IST" name="Demo2" finished-at="2024-01-29T16:53:06 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Demo2 -->
       </class> <!-- maven.DemoTest -->
       <class name="maven.SampleTest">
-        <test-method signature="sample1Test()[pri:0, instance:maven.SampleTest@4135c3b]" started-at="2024-01-24T12:02:29 IST" name="sample1Test" finished-at="2024-01-24T12:02:29 IST" duration-ms="13" status="PASS">
+        <test-method signature="sample1Test()[pri:0, instance:maven.SampleTest@4135c3b]" started-at="2024-01-29T16:53:06 IST" name="sample1Test" finished-at="2024-01-29T16:53:06 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sample1Test -->
